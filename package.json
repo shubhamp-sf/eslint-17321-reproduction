@@ -1,0 +1,10 @@
+{
+  "name": "eslint-17321-reproduction",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "shubhamp-sf",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
